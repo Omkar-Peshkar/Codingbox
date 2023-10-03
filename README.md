@@ -21,4 +21,7 @@
        Q18 wap to print hollow diamond?
        Q19 wap to print hollow butterfly?
        Q20 wap to verify the given number is am=rmstrong number or not?
+       Q21 wap to find the factorial of number?
+       Q22 wap to print fabonicci series for n number of element?
+       Q23 wap to reverse the given number?
 
