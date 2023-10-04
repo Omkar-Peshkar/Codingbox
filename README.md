@@ -17,11 +17,17 @@
        Q14 wap to print numbered pyramid?
        Q15 wap to print palindrom pyramid?
        Q16 wap to print star pattern?
-       Q17 wap to print zig-zag pattern?
-       Q18 wap to print hollow diamond?
+       Q17 wap to print zig-zag pattern?  
+       Q18 wap to print hollow diamond?   
        Q19 wap to print hollow butterfly?
        Q20 wap to verify the given number is am=rmstrong number or not?
        Q21 wap to find the factorial of number?
        Q22 wap to print fabonicci series for n number of element?
        Q23 wap to reverse the given number?
-
+       Q24 wap to print prime number between 2 numbers using funtions?
+       Q25 wap to find the factorial of number using funtion?
+       Q26 wap to find factorial using funtion?
+       Q27 wap to find ncr?
+       Q28 wap to print pascal triangle?   
+       Q29 wap to print sum of n natural numbers?
+       Q30 wap using funtion to check pythagorean triplet?
