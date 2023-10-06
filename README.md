@@ -31,3 +31,8 @@
        Q28 wap to print pascal triangle?   
        Q29 wap to print sum of n natural numbers?
        Q30 wap using funtion to check pythagorean triplet?
+       Q31 wap for decimal to binary conversion?
+       Q32 wap for octal to decimal coversion (oct=base8 0-7)?
+       Q33 wap for hexadecimal to decimal conversion?
+       Q34 wap for decimal to octal conversion?
+       Q35 wap for decimal to hexadecimal?
