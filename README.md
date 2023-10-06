@@ -36,3 +36,4 @@
        Q33 wap for hexadecimal to decimal conversion?
        Q34 wap for decimal to octal conversion?
        Q35 wap for decimal to hexadecimal?
+       Q36 wap to add 2 binary numbers?
