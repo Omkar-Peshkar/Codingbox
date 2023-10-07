@@ -1,24 +1,24 @@
 #include<iostream>
 using namespace std;
-int selectionsort(int arr[],int n)
+void bubblesort(int a[],int n)
 {
-    int temp;
-  for(int i=0;i<n-1;i++)
-  {
-    for(int j=i+1;j<n;j++)
+   int i,j,temp;
+   for(i=n-1;i>=0;i--)
+   {
+    for(j=0;j<=i;j++)
     {
-        if(arr[j]<arr[i])
+        if(a[j]>a[j+1])
         {
-          temp=arr[i];
-          arr[i]=arr[j];
-          arr[j]=temp;
+            temp=a[j];
+            a[j]=a[j+1];
+            a[j+1]=temp;
         }
     }
-  }
-  cout<<"Sorted array=="<<endl;
+   }
+cout<<"Sorted array=="<<endl;
 for(int i=0;i<n;i++)
 {
-    cout<<arr[i]<<endl;
+    cout<<a[i]<<endl;
 }
 }
 int main()
@@ -32,6 +32,6 @@ int main()
     {
         cin>>a[i];
     }
-    selectionsort(a,n);
+    bubblesort(a,n);
 
 }
