@@ -37,3 +37,9 @@
        Q34 wap for decimal to octal conversion?
        Q35 wap for decimal to hexadecimal?
        Q36 wap to add 2 binary numbers?
+       Q37 wap to take n numbers from user and find the min and max element and sum of array?
+
+*Data structure*
+       Q1 wap if you have 15rs and and you can buy 1 choocolate for 1 rs and if you give 3 wrappers then you will get 1 rs? then find how many maximum chocolate you will get?
+
+
