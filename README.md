@@ -41,7 +41,19 @@
 # Array        
        Q38 wap for a given array of nth element find the the highest from prefix of ith element?
        Q39 wap for given an array of size n.Output sum of each subarray of given array? 
-       Q40 wap if  
+       Q40 wap Sarasvati has an array of N non-negative integers. The i-th integer of the array is Ai
+          . She wants to choose a contiguous arithmetic subarray from her array that has
+            the maximum length. Please help her to determine the length of the longest
+            contiguous arithmetic subarray.
+          Input
+               The first line of the input gives the number of test cases, T. T test cases follow.
+               Each test case begins with a line containing the integer N. The second line
+              contains N integers. The i-th integer is Ai
+
+          Output
+          For each test case, output one line containing Case #x: y, where x is the test case
+          number (starting from 1) and y is the length of the longest contiguous arithmetic
+          subarray.
 
 *Data structure*
 # questions
