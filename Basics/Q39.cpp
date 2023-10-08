@@ -1,3 +1,4 @@
+    //    Q39 wap for given an array of size n.Output sum of each subarray of given array?
 #include<iostream>
 using namespace std;
 int main()

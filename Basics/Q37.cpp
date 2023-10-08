@@ -1,3 +1,4 @@
+//       Q37 wap to take n numbers from user and find the min and max element and sum of array?
 #include<iostream>
 using namespace std;
 int main()

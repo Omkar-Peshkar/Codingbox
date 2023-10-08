@@ -1,3 +1,5 @@
+//       Q25 wap to find the factorial of number using funtion?
+
 #include<iostream>
 using namespace std;
 void fabonacci(int num)

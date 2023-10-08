@@ -1,3 +1,4 @@
+//       Q27 wap to find ncr?
 #include<iostream>
 using namespace std;
 int fact(int num)

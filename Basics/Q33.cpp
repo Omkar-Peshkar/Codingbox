@@ -1,3 +1,4 @@
+//       Q33 wap for hexadecimal to decimal conversion?
 #include<iostream>
 #include<math.h>
 using namespace std;

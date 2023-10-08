@@ -1,3 +1,4 @@
+//       Q29 wap to print sum of n natural numbers?
 #include<iostream>
 using namespace std;
 int sum(int num)

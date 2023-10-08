@@ -1,3 +1,5 @@
+//        Q2 wap to Take input from user till it give negative number?
+
 #include<iostream>
 using namespace std;
 int main()

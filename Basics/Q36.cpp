@@ -1,3 +1,4 @@
+//       Q36 wap to add 2 binary numbers?
 #include<iostream>
 #include<math.h>
 #include<string>

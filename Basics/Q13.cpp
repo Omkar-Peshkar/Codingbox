@@ -1,3 +1,4 @@
+//       Q13 wap to print rombus?
 #include<iostream>
 using namespace std;
 int main()

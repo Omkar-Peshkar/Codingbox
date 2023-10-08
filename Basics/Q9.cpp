@@ -1,3 +1,5 @@
+//        Q9 wap to print half pyramid with 180 rotation?
+
 #include <iostream>
 using namespace std;
 int main()

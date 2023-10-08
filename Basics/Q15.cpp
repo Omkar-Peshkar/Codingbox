@@ -1,3 +1,5 @@
+//       Q15 wap to print palindrom pyramid?
+
 #include<iostream>
 using namespace std;
 int main()

@@ -1,3 +1,5 @@
+//       Q20 wap to verify the given number is am=rmstrong number or not?
+
 #include<iostream>
 using namespace std;
 int main()

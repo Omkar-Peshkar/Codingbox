@@ -1,3 +1,4 @@
+//       Q26 wap to find factorial using funtion?
 #include<iostream>
 using namespace std;
 void fact(int num)

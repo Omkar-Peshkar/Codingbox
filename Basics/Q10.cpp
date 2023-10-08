@@ -1,3 +1,4 @@
+//       Q10 wap to print butterfly pattern?
 #include<iostream>
 using namespace std;
 int main()

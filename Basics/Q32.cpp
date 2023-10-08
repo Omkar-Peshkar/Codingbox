@@ -1,3 +1,5 @@
+//       Q32 wap for octal to decimal coversion (oct=base8 0-7)?
+
 #include <iostream>
 #include<math.h>
 using namespace std;

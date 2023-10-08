@@ -1,3 +1,5 @@
+//       Q31 wap for decimal to binary conversion?
+
 #include<iostream>
 #include<math.h>
 using namespace std; 

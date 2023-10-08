@@ -1,3 +1,5 @@
+//       Q14 wap to print numbered pyramid?
+
 #include<iostream>
 using namespace std;
 int main()

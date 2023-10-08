@@ -1,3 +1,4 @@
+//       Q34 wap for decimal to octal conversion?
 #include <iostream>
 #include<math.h>
 using namespace std;

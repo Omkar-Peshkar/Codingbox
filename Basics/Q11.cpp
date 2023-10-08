@@ -1,3 +1,4 @@
+//       Q11 wap to print inverted number pattern?
 #include<iostream>
 using namespace std;
 int main()

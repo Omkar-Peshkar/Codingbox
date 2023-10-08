@@ -1,3 +1,5 @@
+//        Q7 wap to print hollow rectangle?
+
 #include<iostream>
 using namespace std;
 int main()

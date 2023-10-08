@@ -1,3 +1,5 @@
+//        Q8 wap to print inverted pyramid?
+
 #include<iostream>
 using namespace std;
 int main()

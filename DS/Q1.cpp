@@ -1,3 +1,5 @@
+    //    Q1 wap if you have 15rs and and you can buy 1 choocolate for 1 rs and if you give 3 wrappers then   
+    //        will get 1 rs? then find how many maximum chocolate you will get?
 #include<iostream>
 using namespace std;
 int main()

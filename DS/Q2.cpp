@@ -1,3 +1,4 @@
+    //    Q2 wap that you have 25 horces and at max 5 can run together then find minimum races to find fastest 3?
 //but answer is 7 
 #include<iostream>
 using namespace std;
@@ -20,6 +21,6 @@ int main()
     return 0;
 }
 
-25=5*5 
-top1 from each race 5th 
-top2 from 
+// 25=5*5 
+// top1 from each race 5th 
+// top2 from 

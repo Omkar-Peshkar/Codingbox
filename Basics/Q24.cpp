@@ -1,3 +1,5 @@
+//       Q24 wap to print prime number between 2 numbers using funtions?
+
 #include<iostream>
 #include<math.h>
 using namespace std;

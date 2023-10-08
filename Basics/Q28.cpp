@@ -1,3 +1,4 @@
+//       Q28 wap to print pascal triangle?   
 #include<iostream>
 using namespace std;
 int fact(int num)

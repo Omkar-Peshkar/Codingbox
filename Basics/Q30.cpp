@@ -1,3 +1,4 @@
+//       Q30 wap using funtion to check pythagorean triplet?
 #include <iostream>
 using namespace std;
 bool triplet(int a, int b, int c)

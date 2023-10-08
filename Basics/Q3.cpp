@@ -1,3 +1,5 @@
+//        Q3 wap to check weather the given number is prime or not?
+
 #include<iostream>
 #include<math.h>
 using namespace std;

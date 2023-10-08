@@ -1,3 +1,4 @@
+//       Q18 wap to print hollow diamond?   
 #include<iostream>
 using namespace std;
 int main()

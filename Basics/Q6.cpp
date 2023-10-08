@@ -1,3 +1,4 @@
+//        Q6 wap to check weather the given number is vowel or consonent?
 #include<iostream>
 using namespace std;
 int main()

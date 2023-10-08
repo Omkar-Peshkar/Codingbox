@@ -1,3 +1,5 @@
+//       Q17 wap to print zig-zag pattern?  
+
 #include<iostream>
 using namespace std;
 int main()

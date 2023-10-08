@@ -1,3 +1,5 @@
+//        Q5 wap to make simple calculator?
+
 #include<iostream>
 #include<math.h>
 using namespace std;
