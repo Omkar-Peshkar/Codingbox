@@ -38,8 +38,16 @@
        Q35 wap for decimal to hexadecimal?
        Q36 wap to add 2 binary numbers?
        Q37 wap to take n numbers from user and find the min and max element and sum of array?
+# Array        
+       Q38 wap for a given array of nth element find the the highest from prefix of ith element?
+       Q39 wap for given an array of size n.Output sum of each subarray of given array? 
+       Q40 wap if  
 
 *Data structure*
-       Q1 wap if you have 15rs and and you can buy 1 choocolate for 1 rs and if you give 3 wrappers then you will get 1 rs? then find how many maximum chocolate you will get?
+# questions
+# puzzel
+       Q1 wap if you have 15rs and and you can buy 1 choocolate for 1 rs and if you give 3 wrappers then       will get 1 rs? then find how many maximum chocolate you will get?
+       Q2 wap that you have 25 horces and at max 5 can run together then find minimum races to find fastest 3?
+
 
 
