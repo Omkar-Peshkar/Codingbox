@@ -73,6 +73,21 @@
           .Output
                For each test case, output one line containing Case #x: y, where x is the test case
                number (starting from 1) and y is the number of record breaking days.
+        Q42 wap Problem Given an array arr[] of size N. The task is to find the first repeating element in an
+            array of integers, i.e., an element that occurs more than once and whose index of
+            first occurrence is smallest.
+            Constraints
+            1 <= N <= 106
+            0 <= Ai <= 106
+        Q43 wap Problem Given an unsorted array A of size N of non-negative integers, find a continuous
+            subarray which adds to a given number S.
+            Constraints
+            1 <= N <= 105
+            0 <= Ai <= 1010
+        Q44 wap Find the smallest positive missing number in the given array.
+            Example: [0, -10, 1, 3, -20], Ans = 2
+        Q45 wap to find max subarray sum? O(n^2)
+        Q46 wap to find max subarray sum?  O(n) using kedane algorithem
 
 *Data structure*
 # questions
