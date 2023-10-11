@@ -88,6 +88,9 @@
             Example: [0, -10, 1, 3, -20], Ans = 2
         Q45 wap to find max subarray sum? O(n^2)
         Q46 wap to find max subarray sum?  O(n) using kedane algorithem
+        Q47 wap to fin max circular subarray sum?
+        Q48 wap to find sum of 2 no from given array is k or not?
+
 
 *Data structure*
 # questions
