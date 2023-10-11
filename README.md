@@ -91,6 +91,9 @@
         Q47 wap to fin max circular subarray sum?
         Q48 wap to find sum of 2 no from given array is k or not?
 
+# 2D-Array 
+        Q49 wap to print spiral order traversal of a given 2d matrix?
+
 
 *Data structure*
 # questions
