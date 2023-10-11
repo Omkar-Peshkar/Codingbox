@@ -1,0 +1,1 @@
+// Q51 wap to find multiplication of matrix n1*n2 with n2*n3?

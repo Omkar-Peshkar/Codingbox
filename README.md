@@ -93,6 +93,11 @@
 
 # 2D-Array 
         Q49 wap to print spiral order traversal of a given 2d matrix?
+        Q50 wap Problem Given a square matrix A & its number of rows (or columns) N, return the
+            transpose of A.
+            The transpose of a matrix is the matrix flipped over it's main diagonal,
+            switching the row and column indices of the matrix.
+        Q51 wap to find multiplication of matrix n1*n2 with n2*n3?
 
 
 *Data structure*
