@@ -1,3 +1,5 @@
+//        Q49 wap to print spiral order traversal of a given 2d matrix?
+
 #include<iostream>
 using namespace std;
 int main()
@@ -31,29 +33,26 @@ int main()
     ec=c-1;
     while(sr<=er && sc<=ec)
     {
-        for(i=sr;i<=ec;j++)
+        for(j=sc;j<=ec;j++)
         {
             cout<<a[sr][j]<<" ";
-            sr++;
         }
-        cout<<endl;
+        sr++;
         for(i=sr;i<=er;i++)
         {
-            cout<<a[ec][i]<<" ";
+            cout<<a[i][ec]<<" ";
         }
-                cout<<endl;
+        ec--;
         for(j=ec;j>=sc;j--)
         {
             cout<<a[er][j]<<" ";
-            er--;
         }
-                cout<<endl;
-        for(i=er;i<=sr;i++)
+        er--;
+        for(i=er;i>=sr;i--)
         {
-            cout<<a[sc][i]<<" ";
-            sc++;
+            cout<<a[i][sc]<<" ";
         }
-                cout<<endl;
+                    sc++;
 
     }
 
