@@ -97,7 +97,8 @@
             transpose of A.
             The transpose of a matrix is the matrix flipped over it's main diagonal,
             switching the row and column indices of the matrix.
-        Q51 wap to find multiplication of matrix n1*n2 with n2*n3?
+        Q51 wap to find multiplication of matrix n1*n2 with n2*n3? O(n1*n2*n3)
+        Q52 wap to do 2D matrix search in such a way that the elemnts of rows and column are sorted?
 
 
 *Data structure*
