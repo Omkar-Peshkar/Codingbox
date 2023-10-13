@@ -44,6 +44,6 @@ int main()
     }
     else
     {
-        cout << k << "not found";
+        cout << k << "does not exist";
     }
 }

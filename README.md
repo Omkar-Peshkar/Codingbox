@@ -99,7 +99,10 @@
             switching the row and column indices of the matrix.
         Q51 wap to find multiplication of matrix n1*n2 with n2*n3? O(n1*n2*n3)
         Q52 wap to do 2D matrix search in such a way that the elemnts of rows and column are sorted?
-
+    
+        Q53 wap to check the given string is palindrom or not?
+        Q54 wap to print the biggest word from the sentence?
+        Q55 wap to print the word having highest no og vowels from the sentence?
 
 *Data structure*
 # questions
