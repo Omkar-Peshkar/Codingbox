@@ -9,10 +9,9 @@ int main()
     cin.ignore();
     char arr[n+1];
     cout<<"Enter the string=";
-    cin.getline(arr,n);
+    cin.getline(arr,n+1);
     cin.ignore();
     int maxv=0,sumv=0,sp=0,i=0,maxsp=-1,sumw=0,maxw=0;
-    
     while(arr[i]!='\0')
     {
     if(arr[i]==' ')

@@ -11,7 +11,7 @@ int main()
 
     char arr[n + 1];
     cout << "Enter the string: ";
-    cin.getline(arr, n);
+    cin.getline(arr, n+1);
 
     int sum = 0, max = 0, i = 0,sp=0,maxsp=0,tp=-1;
     while (arr[i] != '\0')
